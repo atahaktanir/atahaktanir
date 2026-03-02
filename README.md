@@ -1,5 +1,16 @@
-## Hi I am Doğan Ata HAKTANIR 👋 
-I am Software Engineering Student
+## Hi I' m Doğan Ata HAKTANIR 👋 
+🎓 Software Engineering student at Cankaya University
+📍 Ankara, Turkey
+
+💻 Technical Skills
+C, C++
+Python
+HTML, CSS
+RStudio
+📚 Currently Learning
+Advanced Data Structures
+Algorithm Optimization
+Backend Development
 <!--
 **atahaktanir/atahaktanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
