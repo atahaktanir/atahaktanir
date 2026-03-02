@@ -1,6 +1,5 @@
-## Hi there 👋
-Hi i am Doğan Ata Haktanır 
-I am Software Engineer college
+## Hi I am Doğan Ata HAKTANIR 👋 
+I am Software Engineering Student
 <!--
 **atahaktanir/atahaktanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
