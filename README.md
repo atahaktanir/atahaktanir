@@ -3,25 +3,22 @@
 📍 Ankara, Turkey
 
 💻 Technical Skills
-C, C++
-Python
-HTML, CSS
-RStudio
+
+C – Beginner level: Basic syntax, pointers, memory management
+
+C++ – Beginner level: OOP fundamentals, introductory STL usage
+
+Python – Beginner level: Data types, functions, basic algorithms
+
+HTML – Beginner level: Page structure, core tags
+
+CSS – Beginner level: Styling, box model, basic responsive design
+
+R (RStudio) – Beginner level: Basic data analysis, data visualization
+
 📚 Currently Learning
-Advanced Data Structures
-Algorithm Optimization
-Backend Development
-<!--
-**atahaktanir/atahaktanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Advanced Data Structures – Moving toward intermediate: Trees, graphs, hash tables
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Algorithm Optimization – Beginner to intermediate: Big-O analysis, time & space complexity improvement
 -->
